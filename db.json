@@ -20,5 +20,18 @@
     { "id": "1692607696870", "title": "안양시도서관 유사사이트 주의 안내", "date": "2022-11-22" },
     { "id": "1692607696869", "title": "안양시립평촌도서관 임시휴관 공고", "date": "2022-11-07" }
   ],
-  "books": {}
+  "books": [
+    { "'id": "1692944712263", "title": "불편한 편의점", "author": "김호연", "publisher": "나무옆의자", "publishedYear": "2021", "arrival": "20210202", "likes": "2", "rent": "160", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712263" },
+    { "'id": "1692944712264", "title": "체리새우:비밀글입니다", "author": "황영미", "publisher": "문학동네", "publishedYear": "2019", "arrival": "20190313", "likes": "5", "rent": "104", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712264" },
+    { "'id": "1692944712265", "title": "이상한 엄마", "author": "백희나", "publisher": "책읽는곰", "publishedYear": "2022", "arrival": "20220605", "likes": "9", "rent": "113", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712265" },
+    { "'id": "1692944712266", "title": "페인트", "author": "이희영", "publisher": "창비", "publishedYear": "2019", "arrival": "20191012", "likes": "6", "rent": "122", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712266" },
+    { "'id": "1692944712267", "title": "걱정 많은 어른들을 위한 화학 이야기", "author": "윤정인", "publisher": "푸른숲", "publishedYear": "2022", "arrival": "20220402", "likes": "76", "rent": "55", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712267" },
+    { "'id": "1692944712268", "title": "기후미식", "author": "이의철", "publisher": "위즈덤하우스", "publishedYear": "2022", "arrival": "20220515", "likes": "52", "rent": "61", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712268" },
+    { "'id": "1692944712270", "title": "1등은 당신처럼 SNS하지 않는다", "author": "정진수", "publisher": "나비의 활주로", "publishedYear": "2022", "arrival": "20220708", "likes": "99", "rent": "101", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712270" },
+    { "'id": "1692944712271", "title": "얼마나 이상하든", "author": "김희진", "publisher": "자음과모음", "publishedYear": "2021", "arrival": "20210925", "likes": "113", "rent": "43", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712271" },
+    { "'id": "1692944712272", "title": "초등학생이 좋아하는 동화책 200", "author": "이시내", "publisher": "북하우스", "publishedYear": "2023", "arrival": "20230210", "likes": "14", "rent": "20", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712272" },
+    { "'id": "1692944712273", "title": "인생의 허무를 어떻게 할 것인가", "author": "김영민", "publisher": "사회평론아카데미", "publishedYear": "2023", "arrival": "20230322", "likes": "8", "rent": "11", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712273" },
+    { "'id": "1692944712277", "title": "이상한 나라의 책 읽기", "author": "윤성근", "publisher": "드루", "publishedYear": "2023", "arrival": "20230530", "likes": "12", "rent": "24", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712277" },
+    { "'id": "1692944712278", "title": "필요했어, 이런 미술 수업", "author": "조현영", "publisher": "다른", "publishedYear": "2023", "arrival": "20230606", "likes": "19", "rent": "30", "cover": "http://pyeongchonlib.dothome.co.kr/images/1692944712278" }
+  ]
 }
